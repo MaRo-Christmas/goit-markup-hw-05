@@ -541,7 +541,6 @@ img {
 .modal-text {
   color: var(--navy-blue);
   margin-bottom: 16px;
-  line-height: 1.17;
   text-align: center;
 }
 
@@ -598,6 +597,7 @@ img {
   color: var(--navy-blue-modal);
   border: 1px solid var(--navy-blue-modal);
   border-radius: 4px;
+  line-height: 1.17;
   background-color: transparent;
   padding: 8px 16px;
   outline: transparent;
