@@ -548,6 +548,10 @@ img {
   margin-bottom: 8px;
 }
 
+.label {
+  line-height: 1.17;
+}
+
 .label-modal {
   color: var(--light-slate);
   margin-bottom: 4px;
