@@ -550,6 +550,9 @@ img {
 }
 
 .label-modal {
+  color: var(--light-slate);
+  margin-bottom: 4px;
+  display: block;
   line-height: 1.17;
 }
 
