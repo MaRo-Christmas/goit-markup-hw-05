@@ -671,6 +671,10 @@ img {
   fill: var(--cloud);
 }
 
+.link-text {
+  /**/
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
